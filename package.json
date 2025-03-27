@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-sites-export",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "18.3.1",
+    "next": "15.1.0",
+    "@fontsource-variable/inter": "latest",
+    "@react-hook/window-size": "3.1.1",
+    "readcv": "0.1.5",
+    "valtio": "2.1.2"
+  }
+}
